@@ -17,8 +17,7 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 
 5. Before you push your changes to GitHub, add a .gitignore file.
 
-     Add a .gitignore File
-     api_keys.py
+# Add a .gitignore File
 
 For this assignment, you will need to add a .gitignore file to your repo. Doing so will prevent the api_keys.py file that contains your API key from being shared with the public. If you skip this step, anyone using GitHub could copy and use your API key, and you may incur charges as a result.
 
@@ -32,8 +31,9 @@ Before adding your files to GitHub, add api_keys.py to the .gitignore file by fo
 
 2. Open the .gitignore file and type the following code on the first line:
 
-    # Adding config.py file.
-    api_keys.py
+        Adding config.py file.
+        api_keys.py
+
 3. In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the api_keys.py file is untracked.
 
 4. Use git add, git commit, and git push to commit the modifications to the .gitignore, WeatherPy.ipynb and VacationPy.ipynb files to GitHub.
