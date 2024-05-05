@@ -145,9 +145,21 @@ Hotel map
 - Lastly, remember that this is a challenging activity. Push yourself! If you complete this task, you can safely say that you've gained a strong understanding of the core foundations of data analytics, and it will only get better from here.
 
 # References
-Received help from TA and Classmates
+Received help from TA, Classmates and Tutor
+
 Websites used:
 
+https://pypi.org/project/citipy/
+
+https://openweathermap.org/api
+
+https://stackoverflow.com/
+
+https://docs.python.org/3/library/exceptions.html
+
+https://hvplot.holoviz.org/getting_started/hvplot.html
+
+https://docs.python.org/3/library/functions.html
 
 
 # Copright
